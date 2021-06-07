@@ -1,10 +1,3 @@
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.AssemblyReference.cache
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfoInputs.cache
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfo.cs
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.CoreCompileInputs.cache
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cache
-C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cs
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.exe
@@ -66,6 +59,13 @@ C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Deb
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.dll
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\bin\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.pdb
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.AssemblyReference.cache
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfoInputs.cache
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfo.cs
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csproj.CoreCompileInputs.cache
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cache
+C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cs
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.Manifest.cache
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.xml
 C:\Users\bagr\source\repos\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\scopedcss\bundle\GerenciadorCondominios.styles.css

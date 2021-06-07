@@ -1478,7 +1478,8 @@
           "GerenciadorCondominios.BLL": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore": "5.0.6",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.6"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6"
         },
         "runtime": {
           "GerenciadorCondominios.DAL.dll": {}

@@ -11,7 +11,7 @@ namespace GerenciadorCondominios.DAL.Mapeamentos
     {
         public void Configure(EntityTypeBuilder<Servico> builder)
         {
-            builder.Property(s => s.UsuarioId); /////////////////////////////////// HASKEY ???????
+            builder.Property(s => s.ServicoId); /////////////////////////////////// HASKEY ???????
             builder.Property(s => s.Nome).IsRequired().HasMaxLength(30);
             builder.Property(s => s.Valor).IsRequired();
             builder.Property(s => s.Status).IsRequired();
