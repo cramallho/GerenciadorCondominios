@@ -11,6 +11,10 @@ using System.Linq;
 using System.Threading.Tasks;
 
 using Microsoft.EntityFrameworkCore;
+using GerenciadorCondominios.DAL.Interfaces;
+using GerenciadorCondominios.DAL.Repositorios;
+using GerenciadorCondominios.BLL.Models;
+
 
 namespace GerenciadorCondominios
 {
@@ -27,6 +31,12 @@ namespace GerenciadorCondominios
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<Contexto>(opcoes => opcoes.UseSqlServer(Configuration.GetConnectionString("ConexaoDB")));
+            services.AddIdentity<Usuario, Funcao>().AddEntityFrameworkStores<Contexto>();
+
+            services.AddAuthentication();
+            services.AddAuthorization();
+
+            services.AddTransient<IUsuarioRepositorio, UsuarioRepositorio>();
 
             services.AddControllersWithViews();
         }
@@ -48,7 +58,7 @@ namespace GerenciadorCondominios
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

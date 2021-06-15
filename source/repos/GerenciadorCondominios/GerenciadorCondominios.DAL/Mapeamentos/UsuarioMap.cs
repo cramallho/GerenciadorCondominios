@@ -18,7 +18,7 @@ namespace GerenciadorCondominios.DAL.Mapeamentos
             // determina que CPF é único na base
             builder.HasIndex(u => u.CPF).IsUnique();
 
-            builder.Property(u => u.Foto).IsRequired();
+            builder.Property(u => u.Foto); //.IsRequired();
 
             builder.Property(u => u.PrimeiroAcesso).IsRequired();
 
